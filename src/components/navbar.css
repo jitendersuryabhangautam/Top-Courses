@@ -1,0 +1,13 @@
+.navbar{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #00aeff, #167ed2);
+    margin-bottom: 20px;
+}
+.navbar h1{
+    font-size: 20px;
+    font-weight: 600;
+}
